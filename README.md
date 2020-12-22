@@ -16,13 +16,13 @@ Para realizar este teste serão utilizadas as seguintes tecnologias:
 
 #### Cliente
 
-**Cadastro**
+. **Cadastro**
 Deverá ser realizado um cadastro de clientes no sistema com validação de nome e email obrigatórios
-**Exclusão**
+. **Exclusão**
 Deverá ser realizado opção de exclusão de clientes do sistema com modal de confirmação antes da exclusão
-**Alteração**
+. **Alteração**
 Deverá ser realizada alteração de dados do cliente com validação de nome e email obrigatórios
-**Listagem**
+. **Listagem**
 Deverá ser exibida uma listagem de clientes cadastrados com opção de consulta por nome e email
 
 #### Login
