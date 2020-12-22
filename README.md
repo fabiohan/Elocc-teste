@@ -35,6 +35,6 @@ Deverá ser implementado um sistema de logout
 
 ## Requisitos não funcionais
 
-1. Utilizar bando de dados sqlite
+1. Utilizar banco de dados sqlite
 2. Utilizar JWT para login
 3. Subir tanto font-end como back-end para github em um repositório público
