@@ -6,33 +6,33 @@ Para realizar este teste serão utilizadas as seguintes tecnologias:
 * Css
 * Testes unitários (opcional)
 
-## Escopo do projeto
+# Escopo do projeto
 * Deverá ser desenvolvido um sistema de cadastro de clientes. 
 * Ceverá ser desenvolvido um módulo de login e logout do sistema
 * O módulo clientes deve conter os seguintes campos (Nome, Sobrenome, Logradouro, Número, Cidade, Estado, Bairro, Complemento, Celular, Telefone Fixo e Email )
 * O sistema deve seguir os requisitos listados abaixo:
 
-### Requisitos Funcionais
+## Requisitos Funcionais
 
-#### Cliente
+### Cliente
 
-. **Cadastro**
+####**Cadastro**
 Deverá ser realizado um cadastro de clientes no sistema com validação de nome e email obrigatórios
-. **Exclusão**
+####**Exclusão**
 Deverá ser realizado opção de exclusão de clientes do sistema com modal de confirmação antes da exclusão
-. **Alteração**
+####**Alteração**
 Deverá ser realizada alteração de dados do cliente com validação de nome e email obrigatórios
-. **Listagem**
+####**Listagem**
 Deverá ser exibida uma listagem de clientes cadastrados com opção de consulta por nome e email
 
-#### Login
+### Login
 
-**Login**
+####**Login**
 Deverá ser implementado um sistema de login para acesso aos clientes cadastrados
-**Logout**
+####**Logout**
 Deverá ser implementado um sistema de logout
 
-### Requisitos não funcionais
+## Requisitos não funcionais
 
 . Utilizar bando de dados sqlite
 . Utilizar JWT para login
