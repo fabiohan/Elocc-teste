@@ -1,4 +1,4 @@
-# Elocc-texte
+# Elocc-teste
 Para realizar este teste serão utilizadas as seguintes tecnologias:
 * React (styled components)
 * Nodejs
