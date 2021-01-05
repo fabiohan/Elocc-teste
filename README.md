@@ -7,7 +7,7 @@ Para realizar este teste serão utilizadas as seguintes tecnologias:
 * Testes unitários (opcional)
 
 # Escopo do projeto
-* Deverá ser desenvolvido um sistema de cadastro de clientes. 
+* Deverá ser desenvolvido um módulo de cadastro de clientes. 
 * Deverá ser desenvolvido um módulo de login e logout do sistema
 * O módulo clientes deve conter os seguintes campos (Nome, Sobrenome, Logradouro, Número, Cidade, Estado, Bairro, Complemento, Celular, Telefone Fixo e Email )
 * O Back-end deve servir endpoints para o front-end
