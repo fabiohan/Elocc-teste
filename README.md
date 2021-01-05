@@ -38,3 +38,7 @@ Deverá ser implementado um sistema de logout
 1. Utilizar banco de dados sqlite
 2. Utilizar JWT para login
 3. Subir tanto font-end como back-end para github em um repositório público
+
+## Tempo de execução do teste
+
+O teste deverá ser executado em no máximo 2 dias.
