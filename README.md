@@ -29,7 +29,8 @@ Deverá ser exibida uma listagem de clientes cadastrados com opção de consulta
 ### Login
 
 #### **Login**
-Deverá ser implementado um sistema de login para acesso aos clientes cadastrados
+Deverá ser implementado um sistema de login para acesso aos clientes cadastrados onde o mesmo deve acessar um endpoint retornando um jwt.
+Os dados para realizar o login são E-mail e Senha.
 #### **Logout**
 Deverá ser implementado um sistema de logout
 
@@ -42,3 +43,7 @@ Deverá ser implementado um sistema de logout
 ### Tempo de execução do teste
 
 O teste deverá ser executado em no máximo 2 dias.
+
+### Avaliação
+
+A avaliação ocorrerá em no máximo 5 dias após a entrega do projeto. Serão avaliados: codificação, estrutura e organização de código e senso de resolução do problema.
