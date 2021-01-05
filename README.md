@@ -8,7 +8,7 @@ Para realizar este teste serão utilizadas as seguintes tecnologias:
 
 # Escopo do projeto
 * Deverá ser desenvolvido um sistema de cadastro de clientes. 
-* Ceverá ser desenvolvido um módulo de login e logout do sistema
+* Deverá ser desenvolvido um módulo de login e logout do sistema
 * O módulo clientes deve conter os seguintes campos (Nome, Sobrenome, Logradouro, Número, Cidade, Estado, Bairro, Complemento, Celular, Telefone Fixo e Email )
 * O Back-end deve servir endpoints para o front-end
 * O sistema deve seguir os requisitos listados abaixo:
@@ -39,6 +39,6 @@ Deverá ser implementado um sistema de logout
 2. Utilizar JWT para login
 3. Subir tanto font-end como back-end para github em um repositório público
 
-## Tempo de execução do teste
+### Tempo de execução do teste
 
 O teste deverá ser executado em no máximo 2 dias.
