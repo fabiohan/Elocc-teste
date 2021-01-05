@@ -1,6 +1,6 @@
 # Elocc-teste
 Para realizar este teste serão utilizadas as seguintes tecnologias:
-* React (styled components)
+* React com (styled components)
 * Nodejs
 * Html
 * Css
