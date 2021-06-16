@@ -46,4 +46,4 @@ O teste deverá ser executado em no máximo 2 dias.
 
 ### Avaliação
 
-A avaliação ocorrerá em no máximo 5 dias após a entrega do projeto. Serão avaliados: codificação, estrutura e organização de código e senso de resolução do problema.
+A avaliação ocorrerá em no máximo 3 dias após a entrega do projeto. Serão avaliados: codificação, estrutura e organização de código e senso de resolução do problema.
